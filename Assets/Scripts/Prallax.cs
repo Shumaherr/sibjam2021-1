@@ -15,7 +15,6 @@ public class Prallax : MonoBehaviour
     {
         _startPosition = transform.position.x;
         _lenght = GetComponent<SpriteRenderer>().bounds.size.x;
-        Debug.Log(_lenght);
     }
 
     // Update is called once per frame
