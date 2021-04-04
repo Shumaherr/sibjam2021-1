@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="backgroundPrallax.cs" t="Include" />
+          <e p="EnemyBehaviour.cs" t="Include" />
           <e p="FlickeringLightEffect.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />

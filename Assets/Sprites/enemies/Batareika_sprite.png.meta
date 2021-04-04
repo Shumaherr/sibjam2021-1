@@ -1,0 +1,3022 @@
+fileFormatVersion: 2
+guid: f1e8f234fc9cd574eb1559a25f69e672
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7046082604333854839
+    second: Batareika_sprite_0
+  - first:
+      213: 375079086101999031
+    second: Batareika_sprite_1
+  - first:
+      213: 241018498251926729
+    second: Batareika_sprite_2
+  - first:
+      213: 822933337526599713
+    second: Batareika_sprite_3
+  - first:
+      213: -3758201681096171432
+    second: Batareika_sprite_4
+  - first:
+      213: -6270653774355022466
+    second: Batareika_sprite_5
+  - first:
+      213: -6152345059584237770
+    second: Batareika_sprite_6
+  - first:
+      213: -752726036881394737
+    second: Batareika_sprite_7
+  - first:
+      213: -9199967886180878526
+    second: Batareika_sprite_8
+  - first:
+      213: 8767307187362674273
+    second: Batareika_sprite_9
+  - first:
+      213: -8634026338246325267
+    second: Batareika_sprite_10
+  - first:
+      213: 3021329916064850996
+    second: Batareika_sprite_11
+  - first:
+      213: -1532965779549497349
+    second: Batareika_sprite_12
+  - first:
+      213: 1546436043308191763
+    second: Batareika_sprite_13
+  - first:
+      213: -5305181946688107733
+    second: Batareika_sprite_14
+  - first:
+      213: 7662358087855634907
+    second: Batareika_sprite_15
+  - first:
+      213: -9180582273019503432
+    second: Batareika_sprite_16
+  - first:
+      213: 1080373711938061510
+    second: Batareika_sprite_17
+  - first:
+      213: 736546496261624315
+    second: Batareika_sprite_18
+  - first:
+      213: 2868942531128179852
+    second: Batareika_sprite_19
+  - first:
+      213: 7049605147757052719
+    second: Batareika_sprite_20
+  - first:
+      213: -806920032607559347
+    second: Batareika_sprite_21
+  - first:
+      213: 3716623446036217075
+    second: Batareika_sprite_22
+  - first:
+      213: 1924397629842006728
+    second: Batareika_sprite_23
+  - first:
+      213: 561074589093078858
+    second: Batareika_sprite_24
+  - first:
+      213: -115818964854704004
+    second: Batareika_sprite_25
+  - first:
+      213: 2221804412665139923
+    second: Batareika_sprite_26
+  - first:
+      213: -4351142458715180741
+    second: Batareika_sprite_27
+  - first:
+      213: 661293058534432723
+    second: Batareika_sprite_28
+  - first:
+      213: -3541937782322722038
+    second: Batareika_sprite_29
+  - first:
+      213: 6439230926064008275
+    second: Batareika_sprite_30
+  - first:
+      213: 3514344356776071585
+    second: Batareika_sprite_31
+  - first:
+      213: 2190312232901118199
+    second: Batareika_sprite_32
+  - first:
+      213: 1417070995987249560
+    second: Batareika_sprite_33
+  - first:
+      213: -4393215378275012193
+    second: Batareika_sprite_34
+  - first:
+      213: 768778867570296192
+    second: Batareika_sprite_35
+  - first:
+      213: -2907912173425424156
+    second: Batareika_sprite_36
+  - first:
+      213: 3112138777166909086
+    second: Batareika_sprite_37
+  - first:
+      213: -7818483576601200157
+    second: Batareika_sprite_38
+  - first:
+      213: -8728545154494640898
+    second: Batareika_sprite_39
+  - first:
+      213: -7575725894727032533
+    second: Batareika_sprite_40
+  - first:
+      213: 334789758212948922
+    second: Batareika_sprite_41
+  - first:
+      213: 6664000088523994378
+    second: Batareika_sprite_42
+  - first:
+      213: -1420671289898259378
+    second: Batareika_sprite_43
+  - first:
+      213: -8870807766329654428
+    second: Batareika_sprite_44
+  - first:
+      213: 1671655238158146395
+    second: Batareika_sprite_45
+  - first:
+      213: 578324630780743790
+    second: Batareika_sprite_46
+  - first:
+      213: 3298207610253934643
+    second: Batareika_sprite_47
+  - first:
+      213: 5913825284555939444
+    second: Batareika_sprite_48
+  - first:
+      213: -3439436318740722998
+    second: Batareika_sprite_49
+  - first:
+      213: 1302941525923520592
+    second: Batareika_sprite_50
+  - first:
+      213: 2836090933285692035
+    second: Batareika_sprite_51
+  - first:
+      213: -4990847868359095255
+    second: Batareika_sprite_52
+  - first:
+      213: -527655038628955759
+    second: Batareika_sprite_53
+  - first:
+      213: 46375840920421318
+    second: Batareika_sprite_54
+  - first:
+      213: -1162824312288604894
+    second: Batareika_sprite_55
+  - first:
+      213: -4677003801167595684
+    second: Batareika_sprite_56
+  - first:
+      213: -1042420018554726148
+    second: Batareika_sprite_57
+  - first:
+      213: 5816373311410257927
+    second: Batareika_sprite_58
+  - first:
+      213: -5719383546863348036
+    second: Batareika_sprite_59
+  - first:
+      213: -7868271947360970243
+    second: Batareika_sprite_60
+  - first:
+      213: 4508036221854622775
+    second: Batareika_sprite_61
+  - first:
+      213: 541075754600718262
+    second: Batareika_sprite_62
+  - first:
+      213: -2255976126561030237
+    second: Batareika_sprite_63
+  - first:
+      213: -1947759616738656832
+    second: Batareika_sprite_64
+  - first:
+      213: 6853856994756408139
+    second: Batareika_sprite_65
+  - first:
+      213: -1685217211520132177
+    second: Batareika_sprite_66
+  - first:
+      213: 3765615151369659782
+    second: Batareika_sprite_67
+  - first:
+      213: 2678913850464290071
+    second: Batareika_sprite_68
+  - first:
+      213: 5552283027458989602
+    second: Batareika_sprite_69
+  - first:
+      213: -6455840073920705018
+    second: Batareika_sprite_70
+  - first:
+      213: 4161343606135114009
+    second: Batareika_sprite_71
+  - first:
+      213: 1819228245641678077
+    second: Batareika_sprite_72
+  - first:
+      213: 8462418303856697826
+    second: Batareika_sprite_73
+  - first:
+      213: -2825619025223009571
+    second: Batareika_sprite_74
+  - first:
+      213: 6311588957510239474
+    second: Batareika_sprite_75
+  - first:
+      213: 4851812257633811987
+    second: Batareika_sprite_76
+  - first:
+      213: 3034457240584565078
+    second: Batareika_sprite_77
+  - first:
+      213: 7011121608529328497
+    second: Batareika_sprite_78
+  - first:
+      213: 1384357889093649648
+    second: Batareika_sprite_79
+  - first:
+      213: 5378721235169081970
+    second: Batareika_sprite_80
+  - first:
+      213: -3011937620740794439
+    second: Batareika_sprite_81
+  - first:
+      213: -1537948046993597030
+    second: Batareika_sprite_82
+  - first:
+      213: -6842522721905361703
+    second: Batareika_sprite_83
+  - first:
+      213: -2636845894705203315
+    second: Batareika_sprite_84
+  - first:
+      213: 1325190564244976288
+    second: Batareika_sprite_85
+  - first:
+      213: -4740352882567416899
+    second: Batareika_sprite_86
+  - first:
+      213: 1507487153325947897
+    second: Batareika_sprite_87
+  - first:
+      213: -7824184444617903080
+    second: Batareika_sprite_88
+  - first:
+      213: -834200438864873803
+    second: Batareika_sprite_89
+  - first:
+      213: -8517349482640387811
+    second: Batareika_sprite_90
+  - first:
+      213: 7448619175016178590
+    second: Batareika_sprite_91
+  - first:
+      213: 7004044399161716888
+    second: Batareika_sprite_92
+  - first:
+      213: 7596599264900758240
+    second: Batareika_sprite_93
+  - first:
+      213: 1136158564739251870
+    second: Batareika_sprite_94
+  - first:
+      213: -5937163623113525847
+    second: Batareika_sprite_95
+  - first:
+      213: -8005556299311197404
+    second: Batareika_sprite_96
+  - first:
+      213: 7071769546205601427
+    second: Batareika_sprite_97
+  - first:
+      213: 8135453036494706891
+    second: Batareika_sprite_98
+  - first:
+      213: 1853858201549965235
+    second: Batareika_sprite_99
+  - first:
+      213: -4579475236948700438
+    second: Batareika_sprite_100
+  - first:
+      213: 7188689383907407595
+    second: Batareika_sprite_101
+  - first:
+      213: 1544365469302757959
+    second: Batareika_sprite_102
+  - first:
+      213: -5699657123407084102
+    second: Batareika_sprite_103
+  - first:
+      213: 6769873183967115983
+    second: Batareika_sprite_104
+  - first:
+      213: 3415936257413816959
+    second: Batareika_sprite_105
+  - first:
+      213: -5027992766568404281
+    second: Batareika_sprite_106
+  - first:
+      213: 2190323316263508507
+    second: Batareika_sprite_107
+  - first:
+      213: -5443472135451523643
+    second: Batareika_sprite_108
+  - first:
+      213: -6779886621298200081
+    second: Batareika_sprite_109
+  - first:
+      213: -6955382504801250165
+    second: Batareika_sprite_110
+  - first:
+      213: -296839374727438696
+    second: Batareika_sprite_111
+  - first:
+      213: 2876660393068610454
+    second: Batareika_sprite_112
+  - first:
+      213: 3177156587901555959
+    second: Batareika_sprite_113
+  - first:
+      213: -6024798256224769062
+    second: Batareika_sprite_114
+  - first:
+      213: -1955277993547164810
+    second: Batareika_sprite_115
+  - first:
+      213: -7906990886015130472
+    second: Batareika_sprite_116
+  - first:
+      213: -2717315625148550854
+    second: Batareika_sprite_117
+  - first:
+      213: 8177690062997732777
+    second: Batareika_sprite_118
+  - first:
+      213: 8116309705656585168
+    second: Batareika_sprite_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Batareika_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 705
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f0f9ef339473e90800000000000000
+      internalID: -7046082604333854839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 705
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda9c9017c843500800000000000000
+      internalID: 375079086101999031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 705
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccaa941c05485300800000000000000
+      internalID: 241018498251926729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 705
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1208919a285ab6b00800000000000000
+      internalID: 822933337526599713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 705
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850acfb9b7f28dbc0800000000000000
+      internalID: -3758201681096171432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 705
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3b169d992af8a0800000000000000
+      internalID: -6270653774355022466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 705
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f1adbc3ca7e9aa0800000000000000
+      internalID: -6152345059584237770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 705
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc33f7658a7cd85f0800000000000000
+      internalID: -752726036881394737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 705
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ff2773f5235080800000000000000
+      internalID: -9199967886180878526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 705
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663b7b8f6bbba970800000000000000
+      internalID: 8767307187362674273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 641
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb06775ac6cd2880800000000000000
+      internalID: -8634026338246325267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 641
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4346e4c0d8bede920800000000000000
+      internalID: 3021329916064850996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 641
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75f19debfc9bae0800000000000000
+      internalID: -1532965779549497349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 641
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310de35536b067510800000000000000
+      internalID: 1546436043308191763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 641
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b07d6a0253066b0800000000000000
+      internalID: -5305181946688107733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 641
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f970851a265a60800000000000000
+      internalID: 7662358087855634907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 641
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9c614015089080800000000000000
+      internalID: -9180582273019503432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 641
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40dbcba224efe00800000000000000
+      internalID: 1080373711938061510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 641
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf19b3ec22db83a00800000000000000
+      internalID: 736546496261624315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 640
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cb7e0280880d720800000000000000
+      internalID: 2868942531128179852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 576
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2303de088a35d160800000000000000
+      internalID: 7049605147757052719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 576
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a74e618e3dc4f0800000000000000
+      internalID: -806920032607559347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 576
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc70e82559149330800000000000000
+      internalID: 3716623446036217075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 576
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2265dc275d4ba10800000000000000
+      internalID: 1924397629842006728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 576
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a472467bd5659c700800000000000000
+      internalID: 561074589093078858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 576
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f49dd347846ef0800000000000000
+      internalID: -115818964854704004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 576
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d21d49775f65de10800000000000000
+      internalID: 2221804412665139923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 576
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b317925bcf2ad93c0800000000000000
+      internalID: -4351142458715180741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 576
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df506678826d2900800000000000000
+      internalID: 661293058534432723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 576
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8e1c5a5288dec0800000000000000
+      internalID: -3541937782322722038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c31c6296ebc5950800000000000000
+      internalID: 6439230926064008275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1590c929575c030800000000000000
+      internalID: 3514344356776071585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8834dfe5d856e10800000000000000
+      internalID: 2190312232901118199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899345910927aa310800000000000000
+      internalID: 1417070995987249560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917224c3e92803c0800000000000000
+      internalID: -4393215378275012193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085ca509e404baa00800000000000000
+      internalID: 768778867570296192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e881f8f84505a7d0800000000000000
+      internalID: -2907912173425424156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e80c0aab9803b20800000000000000
+      internalID: 3112138777166909086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9b5767c9a2f7390800000000000000
+      internalID: -7818483576601200157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 512
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcc3648d6afdd680800000000000000
+      internalID: -8728545154494640898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b212119cf6d9dd690800000000000000
+      internalID: -7575725894727032533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 448
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c8b4e28965a400800000000000000
+      internalID: 334789758212948922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 448
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05f4abe5c84b7c50800000000000000
+      internalID: 6664000088523994378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 448
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca4072df2c84ce0800000000000000
+      internalID: -1420671289898259378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 448
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4630529065f84e480800000000000000
+      internalID: -8870807766329654428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 449
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b56511599e23710800000000000000
+      internalID: 1671655238158146395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 449
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e609b86003f960800800000000000000
+      internalID: 578324630780743790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 449
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3300dacc85695cd20800000000000000
+      internalID: 3298207610253934643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 449
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1ea573c0221250800000000000000
+      internalID: 5913825284555939444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 449
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac1e914eaa440d0800000000000000
+      internalID: -3439436318740722998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 385
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050e6cf1a6af41210800000000000000
+      internalID: 1302941525923520592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 385
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38223357da1db5720800000000000000
+      internalID: 2836090933285692035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 385
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc07e6e42fcbab0800000000000000
+      internalID: -4990847868359095255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 385
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199739ab9846da8f0800000000000000
+      internalID: -527655038628955759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 385
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c834e492c4a000800000000000000
+      internalID: 46375840920421318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 385
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d89d9e271dcdfe0800000000000000
+      internalID: -1162824312288604894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 385
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57f04a92d1f71fb0800000000000000
+      internalID: -4677003801167595684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 385
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf81a4f14849881f0800000000000000
+      internalID: -1042420018554726148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 385
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700cba3d5b8e7b050800000000000000
+      internalID: 5816373311410257927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 384
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb61ffa77faa0a0b0800000000000000
+      internalID: -5719383546863348036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9d06d0a584ec290800000000000000
+      internalID: -7868271947360970243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7342d362f03cf8e30800000000000000
+      internalID: 4508036221854622775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5d853889428700800000000000000
+      internalID: 541075754600718262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af61926aa921b0e0800000000000000
+      internalID: -2255976126561030237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf070c2fa28f4e0800000000000000
+      internalID: -1947759616738656832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4338c99f9acd1f50800000000000000
+      internalID: 6853856994756408139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabd7f1ffd7ec98e0800000000000000
+      internalID: -1685217211520132177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a7327707224430800000000000000
+      internalID: 3765615151369659782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154cc814f96d2520800000000000000
+      internalID: 2678913850464290071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 320
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9f180ffbad0d40800000000000000
+      internalID: 5552283027458989602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e893348af3866a0800000000000000
+      internalID: -6455840073920705018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 256
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919c60846ff00c930800000000000000
+      internalID: 4161343606135114009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc44d263723f3910800000000000000
+      internalID: 1819228245641678077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1642e8c9c807570800000000000000
+      internalID: 8462418303856697826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 256
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3ff2a77269c8d0800000000000000
+      internalID: -2825619025223009571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 256
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40da477b4479750800000000000000
+      internalID: 6311588957510239474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e3625da89155340800000000000000
+      internalID: 4851812257633811987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 256
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b72778ce8c1a20800000000000000
+      internalID: 3034457240584565078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 256
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179b479d4f18c4160800000000000000
+      internalID: 7011121608529328497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_79
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 256
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4cf6d5a2a363310800000000000000
+      internalID: 1384357889093649648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a7a18377e05aa40800000000000000
+      internalID: 5378721235169081970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b71c1e11b27336d0800000000000000
+      internalID: -3011937620740794439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dd0ff466c18aae0800000000000000
+      internalID: -1537948046993597030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcba4176d97a01a0800000000000000
+      internalID: -6842522721905361703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8736ae11aa086bd0800000000000000
+      internalID: -2636845894705203315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_85
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a275890cc5046210800000000000000
+      internalID: 1325190564244976288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3f1943b22e63eb0800000000000000
+      internalID: -4740352882567416899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb3575349babe410800000000000000
+      internalID: 1507487153325947897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_88
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814b961b3b9ea6390800000000000000
+      internalID: -7824184444617903080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_89
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 193
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6fbf1ee135c64f0800000000000000
+      internalID: -834200438864873803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11dc5bb5cb4cc980800000000000000
+      internalID: -8517349482640387811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93a00adcafce5760800000000000000
+      internalID: 7448619175016178590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_92
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8903913a54d533160800000000000000
+      internalID: 7004044399161716888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_93
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 129
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea376d68ca8c6960800000000000000
+      internalID: 7596599264900758240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 129
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9efccbe13274cf00800000000000000
+      internalID: 1136158564739251870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_95
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 129
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a572f62425fa9da0800000000000000
+      internalID: -5937163623113525847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_96
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 129
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235a2606fc86e090800000000000000
+      internalID: -8005556299311197404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_97
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 129
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e92073fe8f32260800000000000000
+      internalID: 7071769546205601427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_98
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 129
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d327ee6fe6e070800000000000000
+      internalID: 8135453036494706891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_99
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 129
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7845f463a3ab910800000000000000
+      internalID: 1853858201549965235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae299fbf88f6270c0800000000000000
+      internalID: -4579475236948700438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_101
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be63c6848ea53c360800000000000000
+      internalID: 7188689383907407595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_102
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a9b214630be6510800000000000000
+      internalID: 1544365469302757959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_103
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5cbc95b00c6e0b0800000000000000
+      internalID: -5699657123407084102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_104
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 65
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca7dc0eacb63fd50800000000000000
+      internalID: 6769873183967115983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_105
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 65
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72278e7de7d76f20800000000000000
+      internalID: 3415936257413816959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_106
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cae47fd73bf83ab0800000000000000
+      internalID: -5027992766568404281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_107
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 65
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a54298377956e10800000000000000
+      internalID: 2190323316263508507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_108
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 65
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ccadfee6e474b0800000000000000
+      internalID: -5443472135451523643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_109
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 65
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1f8101a0109e1a0800000000000000
+      internalID: -6779886621298200081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84da5c8674897f90800000000000000
+      internalID: -6955382504801250165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_111
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e9502592a61ebf0800000000000000
+      internalID: -296839374727438696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6934a44e263fbe720800000000000000
+      internalID: 2876660393068610454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_113
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f41aa95517871c20800000000000000
+      internalID: 3177156587901555959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_114
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb645e18ed936ca0800000000000000
+      internalID: -6024798256224769062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_115
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739b7d36057dd4e0800000000000000
+      internalID: -1955277993547164810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89421d4aea9b44290800000000000000
+      internalID: -7906990886015130472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_117
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31f66cf5d72a4ad0800000000000000
+      internalID: -2717315625148550854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_118
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adb838f8cdfc7170800000000000000
+      internalID: 8177690062997732777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batareika_sprite_119
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db47bcdcace2a070800000000000000
+      internalID: 8116309705656585168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

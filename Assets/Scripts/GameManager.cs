@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel.Design;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering.Universal;
+using Random = System.Random;
 
 public enum PlayerStat
 {
@@ -28,11 +29,13 @@ public class GameManager : Singleton<GameManager>
 {
     [SerializeField] public Transform playerPrefab;
     [SerializeField] public PlayerInfo playerInfo;
+    [SerializeField] public Transform[] enemyPrefabs;
     private Light2D _flashlight;
 
     private const float EnergyChangePeriod = 1.0f;
     private const float MaxEnergyAmount = 100f;
     private const float MaxOxygenAmount = 100f;
+    private const float EnemySpawnPeriod = 5f;
 
     private GameObject _playerInstance;
     
@@ -43,6 +46,15 @@ public class GameManager : Singleton<GameManager>
         playerInfo.IsLightFlickering = false;
         playerInfo.Energy = MaxEnergyAmount;
         StartCoroutine(SpawnTimer());
+        StartCoroutine(SpawnEnemy());
+    }
+
+    private IEnumerator SpawnEnemy()
+    {
+        yield return new WaitForSeconds(EnemySpawnPeriod);
+        Random random = new Random();
+        Vector2 newEnemyPos = new Vector2(0,0); //TODO
+        Instantiate(enemyPrefabs[random.Next(0, enemyPrefabs.Length - 1)], newEnemyPos, Quaternion.identity);
     }
 
     private IEnumerator SpawnTimer()
@@ -94,4 +106,6 @@ public class GameManager : Singleton<GameManager>
     {
         return playerInfo.PlayerStatus == PlayerStat.Sprint;
     }
+    
+    
 }
