@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel.Design;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering.Universal;
-using Random = System.Random;
+using Random = UnityEngine.Random;
 
 public enum PlayerStat
 {
@@ -35,26 +35,39 @@ public class GameManager : Singleton<GameManager>
     private const float EnergyChangePeriod = 1.0f;
     private const float MaxEnergyAmount = 100f;
     private const float MaxOxygenAmount = 100f;
-    private const float EnemySpawnPeriod = 5f;
+    private const float EnemySpawnPeriod = 1f;
 
-    private GameObject _playerInstance;
-    
+    private Transform _playerInstance;
+    private Camera _camera;
+
     // Start is called before the first frame update
     void Start()
     {
+        _camera = Camera.main;
         _flashlight = GetComponent<Light2D>();
         playerInfo.IsLightFlickering = false;
         playerInfo.Energy = MaxEnergyAmount;
+        _playerInstance = Instantiate(playerPrefab, Vector2.zero, Quaternion.identity);
         StartCoroutine(SpawnTimer());
         StartCoroutine(SpawnEnemy());
     }
 
     private IEnumerator SpawnEnemy()
     {
-        yield return new WaitForSeconds(EnemySpawnPeriod);
-        Random random = new Random();
-        Vector2 newEnemyPos = new Vector2(0,0); //TODO
-        Instantiate(enemyPrefabs[random.Next(0, enemyPrefabs.Length - 1)], newEnemyPos, Quaternion.identity);
+
+        while (true)
+        {
+            yield return new WaitForSeconds(EnemySpawnPeriod);
+            
+            float spawnX = Random.Range(_playerInstance.position.x + 10,
+                _camera.ScreenToWorldPoint(new Vector2(Screen.width, 0)).x);
+            float spawnY = Random.Range(_camera.ScreenToWorldPoint(new Vector2(0, 0)).y,
+                _camera.ScreenToWorldPoint(new Vector2(0, Screen.height)).y);
+
+            Vector2 newEnemyPos = new Vector2(spawnX, spawnY);
+            Instantiate(enemyPrefabs[UnityEngine.Random.Range(0, enemyPrefabs.Length - 1)], newEnemyPos,
+                Quaternion.identity);
+        }
     }
 
     private IEnumerator SpawnTimer()
