@@ -650,6 +650,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerPrefab: {fileID: 0}
+  enemyPrefabs: []
 --- !u!4 &1594762845
 Transform:
   m_ObjectHideFlags: 0
