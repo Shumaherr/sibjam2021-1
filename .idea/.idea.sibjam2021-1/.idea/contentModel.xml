@@ -12,6 +12,7 @@
           <e p="FlickeringLightEffect.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
           <e p="ParallaxBackground.cs" t="Include" />
+          <e p="Pickpoint.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
           <e p="Singletone.cs" t="Include" />
           <e p="SmallEnemyBeh.cs" t="Include" />

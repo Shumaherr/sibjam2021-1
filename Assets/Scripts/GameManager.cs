@@ -34,6 +34,7 @@ public class GameManager : Singleton<GameManager>
     }
 
     public bool isStopped;
+    public bool isPressed;
     [SerializeField] public Transform playerPrefab;
     [SerializeField] public PlayerInfo playerInfo;
     [SerializeField] public Transform[] enemyPrefabs;
@@ -51,6 +52,7 @@ public class GameManager : Singleton<GameManager>
     void Start()
     {
         _camera = Camera.main;
+        isPressed = false;
         _flashlight = GetComponent<Light2D>();
         playerInfo.IsLightFlickering = false;
         playerInfo.Energy = MaxEnergyAmount;

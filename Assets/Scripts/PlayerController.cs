@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
     private float _vertical = 0f;
     private Vector3 _difference;
     private Rigidbody2D _rb;
-
+    private Transform _pickpoint;
   
 
     // Start is called before the first frame update
@@ -26,6 +26,7 @@ public class PlayerController : MonoBehaviour
     {
         _rb = GetComponent<Rigidbody2D>();
         _camera = Camera.main;
+        _pickpoint = GameObject.Find("Pickpoint").transform;
     }
 
     // Update is called once per frame
@@ -37,6 +38,14 @@ public class PlayerController : MonoBehaviour
             GameManager.Instance.playerInfo.PlayerStatus = PlayerStat.Sprint;
         if (Input.GetKeyUp(KeyCode.LeftShift))
             GameManager.Instance.playerInfo.PlayerStatus = PlayerStat.Swim;
+        if (Input.GetKeyDown(KeyCode.Mouse0))
+        {
+            GameManager.Instance.isPressed = true;
+        }
+        if (Input.GetKeyUp(KeyCode.Mouse0))
+        {
+            GameManager.Instance.isPressed = false;
+        }
         _difference = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
         _difference.Normalize();
     }
