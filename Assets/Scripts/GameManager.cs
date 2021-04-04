@@ -5,6 +5,7 @@ using System.ComponentModel.Design;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering.Universal;
 using Random = UnityEngine.Random;
+using UnityEngine.SceneManagement;
 
 public enum PlayerStat
 {
@@ -140,6 +141,7 @@ public class GameManager : Singleton<GameManager>
         if (playerInfo.PlayerStatus == PlayerStat.Die || playerInfo.Oxygen <= 0f)
         {
             //TODO GAMEVER
+            SceneManager.LoadScene("EndScene");
         }
     }
 
