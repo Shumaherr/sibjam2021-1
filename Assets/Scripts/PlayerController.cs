@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] private float verticalSpeed = 5.0f;
     [SerializeField] private float horizontalSpeed = 5.0f;
+    [SerializeField] private float sprintMult = 2.0f;
     [SerializeField] private float fixedSpeed = 15.0f;
     [SerializeField] public Transform light;
     [SerializeField] public float rotationLock = 45.0f;
@@ -31,17 +32,25 @@ public class PlayerController : MonoBehaviour
     {
         _horizontal = Input.GetAxis("Horizontal");
         _vertical = Input.GetAxis("Vertical");
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+            GameManager.Instance.playerInfo.PlayerStatus = PlayerStat.Sprint;
+        if (Input.GetKeyUp(KeyCode.LeftShift))
+            GameManager.Instance.playerInfo.PlayerStatus = PlayerStat.Swim;
         _difference = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
         _difference.Normalize();
     }
 
     private void FixedUpdate() {
         //movement
-        _rb.velocity = new Vector2(fixedSpeed * Time.fixedDeltaTime + _horizontal * horizontalSpeed * Time.fixedDeltaTime, _vertical * verticalSpeed * Time.fixedDeltaTime);
+        float newX = GameManager.Instance.IsSprinting()
+            ? sprintMult * fixedSpeed * Time.fixedDeltaTime + _horizontal * horizontalSpeed * Time.fixedDeltaTime
+            : fixedSpeed * Time.fixedDeltaTime + _horizontal * horizontalSpeed * Time.fixedDeltaTime;
+        float newY = _vertical * verticalSpeed * Time.fixedDeltaTime;
+        _rb.velocity = new Vector2(newX, newY);
         //light rotation
-        float rotation_z = Mathf.Atan2(_difference.y, _difference.x) * Mathf.Rad2Deg;
-        if(System.Math.Abs(rotation_z) <= rotationLock) {
-            light.rotation = Quaternion.Euler(0f, 0f, rotation_z);
+        float rotationZ = Mathf.Atan2(_difference.y, _difference.x) * Mathf.Rad2Deg;
+        if(System.Math.Abs(rotationZ) <= rotationLock) {
+            light.rotation = Quaternion.Euler(0f, 0f, rotationZ);
         }
     }
 

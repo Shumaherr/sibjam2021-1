@@ -31,14 +31,13 @@ public class GameManager : Singleton<GameManager>
     private Light2D _flashlight;
 
     private const float EnergyChangePeriod = 1.0f;
-    private const float MaxEnergyAmount = 5;
+    private const float MaxEnergyAmount = 100f;
     private const float MaxOxygenAmount = 100f;
 
     private GameObject _playerInstance;
-
-    private
-        // Start is called before the first frame update
-        void Start()
+    
+    // Start is called before the first frame update
+    void Start()
     {
         _flashlight = GetComponent<Light2D>();
         playerInfo.IsLightFlickering = false;
@@ -89,5 +88,10 @@ public class GameManager : Singleton<GameManager>
         {
             playerInfo.IsLightFlickering = true;
         }
+    }
+
+    public bool IsSprinting()
+    {
+        return playerInfo.PlayerStatus == PlayerStat.Sprint;
     }
 }

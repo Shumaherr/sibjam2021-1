@@ -11,30 +11,32 @@ public class backgroundPrallax : MonoBehaviour
     [SerializeField] public Sprite[] second_bg;
 
     private float _leftCameraBorder; //координаты левой границы камеры
-    private float _bg_1_end = 0.0f
-                , _bg_2_end= 0.0f;
+    private float _bg_1_end = 0.0f, _bg_2_end = 0.0f;
     private SpriteRenderer _bg_1_renderer, _bg_2_renderer;
     private bool _mainLeft = true;
 
-    private void intilizeBackground(bool left) {
+    private void intilizeBackground(bool left)
+    {
         int bg_main_random = Random.Range(0, main_bg.Length);
-        if(left) {
+        if (left)
+        {
             _bg_1_renderer.sprite = main_bg[0];
-            _bg_1_end =  _mainLeft ? 0 : _bg_2_end;
+            _bg_1_end = _mainLeft ? 0 : _bg_2_end;
             _bg_1_end += _bg_1_renderer.sprite.bounds.extents.x * 2.0f;
             bg_1.transform.position = new Vector3(_bg_2_end, 0.0f, 0.0f);
 
             _mainLeft = false;
         }
-        else {
+        else
+        {
             _bg_2_renderer.sprite = main_bg[0];
-            _bg_2_end =  !_mainLeft ? 0 : _bg_1_end;
+            _bg_2_end = !_mainLeft ? 0 : _bg_1_end;
             _bg_2_end += _bg_2_renderer.sprite.bounds.extents.x * 2.0f;
             bg_2.transform.position = new Vector3(_bg_1_end, 0.0f, 0.0f);
             _mainLeft = true;
         }
     }
-    
+
 
     private void Start()
     {
@@ -48,20 +50,18 @@ public class backgroundPrallax : MonoBehaviour
 
     private void Update()
     {
-        _leftCameraBorder = Camera.main.ScreenToWorldPoint(new Vector3 (0, Camera.main.pixelHeight, 0)).x;
-
+        _leftCameraBorder = Camera.main.ScreenToWorldPoint(new Vector3(0, Camera.main.pixelHeight, 0)).x;
     }
 
     private void FixedUpdate()
     {
-        if (_leftCameraBorder > _bg_1_end) {
+        if (_leftCameraBorder > _bg_1_end)
+        {
             intilizeBackground(true);
         }
-        else if (_leftCameraBorder > _bg_2_end) {
+        else if (_leftCameraBorder > _bg_2_end)
+        {
             intilizeBackground(false);
         }
-
     }
-
-
 }
