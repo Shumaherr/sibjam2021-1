@@ -27,6 +27,12 @@ public struct PlayerInfo
 
 public class GameManager : Singleton<GameManager>
 {
+    public Transform PlayerInstance
+    {
+        get => _playerInstance;
+        set => _playerInstance = value;
+    }
+
     [SerializeField] public Transform playerPrefab;
     [SerializeField] public PlayerInfo playerInfo;
     [SerializeField] public Transform[] enemyPrefabs;
@@ -35,7 +41,7 @@ public class GameManager : Singleton<GameManager>
     private const float EnergyChangePeriod = 1.0f;
     private const float MaxEnergyAmount = 100f;
     private const float MaxOxygenAmount = 100f;
-    private const float EnemySpawnPeriod = 1f;
+    private const float EnemySpawnPeriod = 5f;
 
     private Transform _playerInstance;
     private Camera _camera;
@@ -47,7 +53,7 @@ public class GameManager : Singleton<GameManager>
         _flashlight = GetComponent<Light2D>();
         playerInfo.IsLightFlickering = false;
         playerInfo.Energy = MaxEnergyAmount;
-        _playerInstance = Instantiate(playerPrefab, Vector2.zero, Quaternion.identity);
+        _playerInstance = GameObject.FindGameObjectWithTag("Player").transform;
         StartCoroutine(SpawnTimer());
         StartCoroutine(SpawnEnemy());
     }
@@ -59,13 +65,13 @@ public class GameManager : Singleton<GameManager>
         {
             yield return new WaitForSeconds(EnemySpawnPeriod);
             
-            float spawnX = Random.Range(_playerInstance.position.x + 10,
-                _camera.ScreenToWorldPoint(new Vector2(Screen.width, 0)).x);
-            float spawnY = Random.Range(_camera.ScreenToWorldPoint(new Vector2(0, 0)).y,
-                _camera.ScreenToWorldPoint(new Vector2(0, Screen.height)).y);
+            float spawnX = Random.Range( _camera.ScreenToWorldPoint(new Vector2(Screen.width, 0)).x,
+                _camera.ScreenToWorldPoint(new Vector2(Screen.width, 0)).x * 2);
+            float spawnY = Random.Range(_camera.ScreenToWorldPoint(new Vector2(0, 0)).y + 20,
+                _camera.ScreenToWorldPoint(new Vector2(0, Screen.height)).y );
 
             Vector2 newEnemyPos = new Vector2(spawnX, spawnY);
-            Instantiate(enemyPrefabs[UnityEngine.Random.Range(0, enemyPrefabs.Length - 1)], newEnemyPos,
+            Instantiate(enemyPrefabs[Random.Range(0, enemyPrefabs.Length)], newEnemyPos,
                 Quaternion.identity);
         }
     }
@@ -98,6 +104,7 @@ public class GameManager : Singleton<GameManager>
     // Update is called once per frame
     void Update()
     {
+       
     }
 
     private void LateUpdate()

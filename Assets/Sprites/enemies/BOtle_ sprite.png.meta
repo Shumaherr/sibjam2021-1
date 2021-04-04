@@ -1,0 +1,2326 @@
+fileFormatVersion: 2
+guid: 7829579945e553c4e84630a1a1fb8627
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3738589164621276009
+    second: BOtle_ sprite_0
+  - first:
+      213: -800401716177022828
+    second: BOtle_ sprite_1
+  - first:
+      213: 8894623704385322300
+    second: BOtle_ sprite_2
+  - first:
+      213: -1689998597524466282
+    second: BOtle_ sprite_3
+  - first:
+      213: -1470930586116017021
+    second: BOtle_ sprite_4
+  - first:
+      213: -832334173140548153
+    second: BOtle_ sprite_5
+  - first:
+      213: -4311310329112763965
+    second: BOtle_ sprite_6
+  - first:
+      213: 6197445265176196354
+    second: BOtle_ sprite_7
+  - first:
+      213: 5603180641529546279
+    second: BOtle_ sprite_8
+  - first:
+      213: -940959544767747589
+    second: BOtle_ sprite_9
+  - first:
+      213: 404091111571657868
+    second: BOtle_ sprite_10
+  - first:
+      213: 8507151063823816587
+    second: BOtle_ sprite_11
+  - first:
+      213: 2183995040466630338
+    second: BOtle_ sprite_12
+  - first:
+      213: 2446949277451914304
+    second: BOtle_ sprite_13
+  - first:
+      213: 4522331724254371416
+    second: BOtle_ sprite_14
+  - first:
+      213: -8084508679469477205
+    second: BOtle_ sprite_15
+  - first:
+      213: -186244643857434677
+    second: BOtle_ sprite_16
+  - first:
+      213: 8505796800851515698
+    second: BOtle_ sprite_17
+  - first:
+      213: -6812538738222920440
+    second: BOtle_ sprite_18
+  - first:
+      213: -5490709649944473211
+    second: BOtle_ sprite_19
+  - first:
+      213: 8559986550459041491
+    second: BOtle_ sprite_20
+  - first:
+      213: 2332351481124834895
+    second: BOtle_ sprite_21
+  - first:
+      213: 2716314069437139287
+    second: BOtle_ sprite_22
+  - first:
+      213: 8380423430994017658
+    second: BOtle_ sprite_23
+  - first:
+      213: 6103065309072866610
+    second: BOtle_ sprite_24
+  - first:
+      213: 2291391533872301555
+    second: BOtle_ sprite_25
+  - first:
+      213: -6078169504526439708
+    second: BOtle_ sprite_26
+  - first:
+      213: -5142710988766758968
+    second: BOtle_ sprite_27
+  - first:
+      213: -2397620848261824342
+    second: BOtle_ sprite_28
+  - first:
+      213: 6646482606428745858
+    second: BOtle_ sprite_29
+  - first:
+      213: -13517917541277536
+    second: BOtle_ sprite_30
+  - first:
+      213: -5922128602345934138
+    second: BOtle_ sprite_31
+  - first:
+      213: -8880021538236725153
+    second: BOtle_ sprite_32
+  - first:
+      213: -9070950018521416532
+    second: BOtle_ sprite_33
+  - first:
+      213: 4628491112591414334
+    second: BOtle_ sprite_34
+  - first:
+      213: 4742974147904790060
+    second: BOtle_ sprite_35
+  - first:
+      213: 2656185270155877507
+    second: BOtle_ sprite_36
+  - first:
+      213: -660965188702007539
+    second: BOtle_ sprite_37
+  - first:
+      213: -5145929446999126393
+    second: BOtle_ sprite_38
+  - first:
+      213: 2465433801318444378
+    second: BOtle_ sprite_39
+  - first:
+      213: 6134022435936336975
+    second: BOtle_ sprite_40
+  - first:
+      213: -1757093295079920751
+    second: BOtle_ sprite_41
+  - first:
+      213: -5848030095076179864
+    second: BOtle_ sprite_42
+  - first:
+      213: 5071845016268184723
+    second: BOtle_ sprite_43
+  - first:
+      213: 2473701056328120265
+    second: BOtle_ sprite_44
+  - first:
+      213: -4727009324473980986
+    second: BOtle_ sprite_45
+  - first:
+      213: -4545235568612045268
+    second: BOtle_ sprite_46
+  - first:
+      213: -7630134386918588182
+    second: BOtle_ sprite_47
+  - first:
+      213: 2187437025245334393
+    second: BOtle_ sprite_48
+  - first:
+      213: -3262958996294273233
+    second: BOtle_ sprite_49
+  - first:
+      213: -4581353203340081850
+    second: BOtle_ sprite_50
+  - first:
+      213: -2395918277708539340
+    second: BOtle_ sprite_51
+  - first:
+      213: 4820260459139642930
+    second: BOtle_ sprite_52
+  - first:
+      213: -7675171746519846464
+    second: BOtle_ sprite_53
+  - first:
+      213: 4990050185180248436
+    second: BOtle_ sprite_54
+  - first:
+      213: -1903739934628298906
+    second: BOtle_ sprite_55
+  - first:
+      213: 5001763927345204539
+    second: BOtle_ sprite_56
+  - first:
+      213: 7782588416925155101
+    second: BOtle_ sprite_57
+  - first:
+      213: -4941207112829100666
+    second: BOtle_ sprite_58
+  - first:
+      213: -1772024423655128188
+    second: BOtle_ sprite_59
+  - first:
+      213: 4686155338721174811
+    second: BOtle_ sprite_60
+  - first:
+      213: -6527885118963298516
+    second: BOtle_ sprite_61
+  - first:
+      213: 7220976047801888028
+    second: BOtle_ sprite_62
+  - first:
+      213: -2520816361809585662
+    second: BOtle_ sprite_63
+  - first:
+      213: -333010200709877231
+    second: BOtle_ sprite_64
+  - first:
+      213: -652048354897828327
+    second: BOtle_ sprite_65
+  - first:
+      213: 7306413221554382512
+    second: BOtle_ sprite_66
+  - first:
+      213: 715870412134072354
+    second: BOtle_ sprite_67
+  - first:
+      213: -3796030094164274306
+    second: BOtle_ sprite_68
+  - first:
+      213: -4125538897223784416
+    second: BOtle_ sprite_69
+  - first:
+      213: 1479588255953078010
+    second: BOtle_ sprite_70
+  - first:
+      213: -9042190817734401769
+    second: BOtle_ sprite_71
+  - first:
+      213: -6125633646650418672
+    second: BOtle_ sprite_72
+  - first:
+      213: -1118102724445870206
+    second: BOtle_ sprite_73
+  - first:
+      213: -2589625958135972992
+    second: BOtle_ sprite_74
+  - first:
+      213: -8138479402756361200
+    second: BOtle_ sprite_75
+  - first:
+      213: -6290610094763787463
+    second: BOtle_ sprite_76
+  - first:
+      213: -5019007915241689511
+    second: BOtle_ sprite_77
+  - first:
+      213: -1170723985514478121
+    second: BOtle_ sprite_78
+  - first:
+      213: 1025581240952636946
+    second: BOtle_ sprite_79
+  - first:
+      213: 2840457102182298709
+    second: BOtle_ sprite_80
+  - first:
+      213: -1823654808835023372
+    second: BOtle_ sprite_81
+  - first:
+      213: 6876661408643419915
+    second: BOtle_ sprite_82
+  - first:
+      213: 845207200804197504
+    second: BOtle_ sprite_83
+  - first:
+      213: -2231081779983894521
+    second: BOtle_ sprite_84
+  - first:
+      213: -4434438221126412530
+    second: BOtle_ sprite_85
+  - first:
+      213: -2555421486422340952
+    second: BOtle_ sprite_86
+  - first:
+      213: -1991088338387663467
+    second: BOtle_ sprite_87
+  - first:
+      213: -850681363471705442
+    second: BOtle_ sprite_88
+  - first:
+      213: 1685936200456954021
+    second: BOtle_ sprite_89
+  - first:
+      213: -7818958071472178481
+    second: BOtle_ sprite_90
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOtle_ sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 636
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cdf9176fcdd1cc0800000000000000
+      internalID: -3738589164621276009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 636
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490d7ad31e664e4f0800000000000000
+      internalID: -800401716177022828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 636
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3df7a6222d007b70800000000000000
+      internalID: 8894623704385322300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 636
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69555a3ca3beb88e0800000000000000
+      internalID: -1689998597524466282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 636
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843c4ddc64369be0800000000000000
+      internalID: -1470930586116017021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 636
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c50a8bba74f274f0800000000000000
+      internalID: -832334173140548153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 636
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1e2c419162b24c0800000000000000
+      internalID: -4311310329112763965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 636
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205f0c912afb10650800000000000000
+      internalID: 6197445265176196354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_8
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 636
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c6b64b1f72cd40800000000000000
+      internalID: 5603180641529546279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_9
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 636
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9ea1a874a01f2f0800000000000000
+      internalID: -940959544767747589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c841f1a99be9b9500800000000000000
+      internalID: 404091111571657868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871ec9d1d87f0670800000000000000
+      internalID: 8507151063823816587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c67a320beb1f4e10800000000000000
+      internalID: 2183995040466630338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8be1476f45f120800000000000000
+      internalID: 2446949277451914304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_14
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e59ac2ebc82ce30800000000000000
+      internalID: 4522331724254371416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d8a8803e0ecf80800000000000000
+      internalID: -8084508679469477205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_16
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7fe81bb735a6df0800000000000000
+      internalID: -186244643857434677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_17
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239986eef19aa0670800000000000000
+      internalID: 8505796800851515698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_18
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d82a9ac100571a0800000000000000
+      internalID: -6812538738222920440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_19
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 567
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58110461aa41dc3b0800000000000000
+      internalID: -5490709649944473211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 498
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68b363a6e2bc670800000000000000
+      internalID: 8559986550459041491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 498
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4dc3905d2e5020800000000000000
+      internalID: 2332351481124834895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 498
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7594237214942b520800000000000000
+      internalID: 2716314069437139287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 498
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d32c785be3d4470800000000000000
+      internalID: 8380423430994017658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_24
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 498
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d3c4c209172b450800000000000000
+      internalID: 6103065309072866610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_25
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 498
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5cbc1b578accf10800000000000000
+      internalID: 2291391533872301555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_26
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 498
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eae6160a0106aba0800000000000000
+      internalID: -6078169504526439708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_27
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 498
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c73f0c5a9b61a8b0800000000000000
+      internalID: -5142710988766758968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_28
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 498
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa08849aa80f9bed0800000000000000
+      internalID: -2397620848261824342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_29
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 498
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2807ff947bc0d3c50800000000000000
+      internalID: 6646482606428745858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 429
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a069de8689ffcff0800000000000000
+      internalID: -13517917541277536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 429
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c27df6b96f50dda0800000000000000
+      internalID: -5922128602345934138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 429
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5805979573d3c480800000000000000
+      internalID: -8880021538236725153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 429
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac35b2a4038d1280800000000000000
+      internalID: -9070950018521416532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_34
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 429
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e345014e424bb3040800000000000000
+      internalID: 4628491112591414334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_35
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 429
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed9b0bbdd62d140800000000000000
+      internalID: 4742974147904790060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_36
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 429
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c144d1e6aacd420800000000000000
+      internalID: 2656185270155877507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_37
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 429
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f848ea9a7c3d6f0800000000000000
+      internalID: -660965188702007539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_38
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 429
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e0568ae6cf598b0800000000000000
+      internalID: -5145929446999126393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_39
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 429
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da3d8dafaf63220800000000000000
+      internalID: 2465433801318444378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 360
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cf242f7ec602550800000000000000
+      internalID: 6134022435936336975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 360
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b6a8525fc8d97e0800000000000000
+      internalID: -1757093295079920751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_42
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 360
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860c03bdc9f97dea0800000000000000
+      internalID: -5848030095076179864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 360
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c1086ab20d26640800000000000000
+      internalID: 5071845016268184723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 360
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c732f6210a545220800000000000000
+      internalID: 2473701056328120265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_45
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 360
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7e4cc601a466eb0800000000000000
+      internalID: -4727009324473980986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_46
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 360
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e886005541ce0c0800000000000000
+      internalID: -4545235568612045268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_47
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 360
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0893783315c1690800000000000000
+      internalID: -7630134386918588182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_48
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 360
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b094a82665b5e10800000000000000
+      internalID: 2187437025245334393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_49
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 360
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f63da414a7b2d0800000000000000
+      internalID: -3262958996294273233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645015cd883cb60c0800000000000000
+      internalID: -4581353203340081850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 291
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1152450dffbed0800000000000000
+      internalID: -2395918277708539340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_52
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 291
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23631e7495105e240800000000000000
+      internalID: 4820260459139642930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 291
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f19a16ff4c7590800000000000000
+      internalID: -7675171746519846464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_54
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 291
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4797a0b7438304540800000000000000
+      internalID: 4990050185180248436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_55
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 291
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f31cbad9e8495e0800000000000000
+      internalID: -1903739934628298906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_56
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 291
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d06cb9ac5d96540800000000000000
+      internalID: 5001763927345204539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_57
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 291
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb4e76eee410c60800000000000000
+      internalID: 7782588416925155101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_58
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 291
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d103e7f4e4d6bb0800000000000000
+      internalID: -4941207112829100666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_59
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 291
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48348bedc218867e0800000000000000
+      internalID: -1772024423655128188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15a6c6c371980140800000000000000
+      internalID: 4686155338721174811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 222
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f42ad021b4865a0800000000000000
+      internalID: -6527885118963298516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_62
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 222
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1de5d4057f063460800000000000000
+      internalID: 7220976047801888028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_63
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 222
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad852ffd2440dd0800000000000000
+      internalID: -2520816361809585662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 222
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123b10acf8e06bf0800000000000000
+      internalID: -333010200709877231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_65
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 222
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916efe5d97573f6f0800000000000000
+      internalID: -652048354897828327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_66
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 222
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b667fc2d18956560800000000000000
+      internalID: 7306413221554382512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_67
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 222
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220c674d8584fe900800000000000000
+      internalID: 715870412134072354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_68
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 222
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7355a8ddbac15bc0800000000000000
+      internalID: -3796030094164274306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_69
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 222
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0286be32b342fb6c0800000000000000
+      internalID: -4125538897223784416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af64ce9fdad888410800000000000000
+      internalID: 1479588255953078010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 153
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71164addb5fa38280800000000000000
+      internalID: -9042190817734401769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_72
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 153
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a983347a06dfaa0800000000000000
+      internalID: -6125633646650418672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 153
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e10ffe73bb70f0800000000000000
+      internalID: -1118102724445870206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_74
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 153
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bbc2859eccf0cd0800000000000000
+      internalID: -2589625958135972992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_75
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 153
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014bfda4a105e0f80800000000000000
+      internalID: -8138479402756361200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_76
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 153
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3e19a27343b8a0800000000000000
+      internalID: -6290610094763787463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_77
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 153
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e252794e6e85ab0800000000000000
+      internalID: -5019007915241689511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_78
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 153
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d54169ecb0c0cfe0800000000000000
+      internalID: -1170723985514478121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_79
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 153
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216494374b89b3e00800000000000000
+      internalID: 1025581240952636946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554bf4f5fa45b6720800000000000000
+      internalID: 2840457102182298709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_81
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 84
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd947e0d9311b6e0800000000000000
+      internalID: -1823654808835023372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_82
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 84
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f04d6fd1fce6f50800000000000000
+      internalID: 6876661408643419915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 84
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08459859877cabb00800000000000000
+      internalID: 845207200804197504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_84
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 84
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708b63f11fa9901e0800000000000000
+      internalID: -2231081779983894521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_85
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 84
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07585bbee5b572c0800000000000000
+      internalID: -4434438221126412530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_86
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 84
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa456282b1598cd0800000000000000
+      internalID: -2555421486422340952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_87
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 84
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5950bf994bb3e54e0800000000000000
+      internalID: -1991088338387663467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_88
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 84
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a59399ec5c134f0800000000000000
+      internalID: -850681363471705442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_89
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 84
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a06536ba06a56710800000000000000
+      internalID: 1685936200456954021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOtle_ sprite_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca3a348f0b7d7390800000000000000
+      internalID: -7818958071472178481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -27,15 +27,15 @@ public class EnemyBehaviour : MonoBehaviour
         _rb.velocity = new Vector2(speed * Time.fixedDeltaTime, 0);
     }
 
-    private void OnCollisionEnter2D(Collision2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         switch (other.gameObject.tag)
         {
             case "Player":
                 GameManager.Instance.playerInfo.PlayerStatus = PlayerStat.Die;
                 break;
-            case "Trash":
-                other.gameObject.GetComponent<Animator>().enabled = false;
+            case "Enemy":
+                other.GetComponent<SmallEnemyBeh>().isFolowing = false;
                 other.transform.parent = transform;
                 break;
             
