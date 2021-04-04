@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float fixedSpeed = 15.0f;
     [SerializeField] public Transform light;
     [SerializeField] public float rotationLock = 45.0f;
+    [SerializeField] public Transform boneTransform;
 
     private Camera _camera;
     private float _horizontal = 0f;
@@ -50,7 +51,8 @@ public class PlayerController : MonoBehaviour
         //light rotation
         float rotationZ = Mathf.Atan2(_difference.y, _difference.x) * Mathf.Rad2Deg;
         if(System.Math.Abs(rotationZ) <= rotationLock) {
-            light.rotation = Quaternion.Euler(0f, 0f, rotationZ);
+            boneTransform.rotation = Quaternion.Euler(0f, 0f, rotationZ);
+            light.rotation = Quaternion.Euler(0f, 0f, rotationZ);   
         }
     }
 
