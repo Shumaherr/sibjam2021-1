@@ -16,9 +16,36 @@ public enum PlayerStat
 
 public struct PlayerInfo
 {
-    public float Oxygen { get; set; }
+    public delegate void OnEnergyChangeDelegate(float value);
+    public event OnEnergyChangeDelegate OnEnergyChange;
 
-    public float Energy { get; set; }
+    public delegate void OnLevelChangeDelegate(float value);
+    public event OnLevelChangeDelegate OnOxygenChange;
+    public float Oxygen
+    {
+        get => _oxygen;
+        set
+        {
+            _oxygen = value;
+            if (OnOxygenChange != null)
+                OnOxygenChange(Oxygen);
+        }
+    }
+
+    public float Energy
+    {
+        get => _energy;
+        set
+        {
+            _energy = value;
+            if (OnEnergyChange != null)
+                OnEnergyChange(Energy);
+        }
+    }
+
+    public float _oxygen;
+
+    public float _energy;
 
     public PlayerStat PlayerStatus { get; set; }
 
@@ -27,6 +54,7 @@ public struct PlayerInfo
 
 public class GameManager : Singleton<GameManager>
 {
+   
     public Transform PlayerInstance
     {
         get => _playerInstance;
@@ -56,6 +84,7 @@ public class GameManager : Singleton<GameManager>
         _flashlight = GetComponent<Light2D>();
         playerInfo.IsLightFlickering = false;
         playerInfo.Energy = MaxEnergyAmount;
+        playerInfo.Oxygen = MaxOxygenAmount;
         _playerInstance = GameObject.FindGameObjectWithTag("Player").transform;
         isStopped = false;
         StartCoroutine(SpawnTimer());
@@ -108,7 +137,7 @@ public class GameManager : Singleton<GameManager>
     // Update is called once per frame
     void Update()
     {
-        if (playerInfo.PlayerStatus == PlayerStat.Die)
+        if (playerInfo.PlayerStatus == PlayerStat.Die || playerInfo.Oxygen <= 0f)
         {
             //TODO GAMEVER
         }
