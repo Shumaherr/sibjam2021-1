@@ -43,16 +43,52 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate() {
         //movement
-        float newX = GameManager.Instance.IsSprinting()
-            ? sprintMult * fixedSpeed * Time.fixedDeltaTime + _horizontal * horizontalSpeed * Time.fixedDeltaTime
-            : fixedSpeed * Time.fixedDeltaTime + _horizontal * horizontalSpeed * Time.fixedDeltaTime;
-        float newY = _vertical * verticalSpeed * Time.fixedDeltaTime;
+        float newX, newY;
+        if (GameManager.Instance.isStopped)
+        {
+            newX = GameManager.Instance.IsSprinting()
+                ? sprintMult * fixedSpeed * 0.1f * Time.fixedDeltaTime + _horizontal * horizontalSpeed * Time.fixedDeltaTime
+                : fixedSpeed * Time.fixedDeltaTime + _horizontal * horizontalSpeed * Time.fixedDeltaTime;
+            newY = _vertical * verticalSpeed *0.1f * Time.fixedDeltaTime;
+        }
+        else
+        {
+            newX = GameManager.Instance.IsSprinting()
+                ? sprintMult * fixedSpeed * Time.fixedDeltaTime + _horizontal * horizontalSpeed * Time.fixedDeltaTime
+                : fixedSpeed * Time.fixedDeltaTime + _horizontal * horizontalSpeed * Time.fixedDeltaTime;
+            newY = _vertical * verticalSpeed * Time.fixedDeltaTime;
+        }
+
         _rb.velocity = new Vector2(newX, newY);
         //light rotation
         float rotationZ = Mathf.Atan2(_difference.y, _difference.x) * Mathf.Rad2Deg;
         if(System.Math.Abs(rotationZ) <= rotationLock) {
             boneTransform.rotation = Quaternion.Euler(0f, 0f, rotationZ);
             light.rotation = Quaternion.Euler(0f, 0f, rotationZ);   
+        }
+    }
+    
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        switch (other.gameObject.tag)
+        {
+            case "Enemy":
+                other.GetComponent<SmallEnemyBeh>().isFolowing = false;
+                GameManager.Instance.isStopped = true;
+                fixedSpeed *= 0.7f;
+                break;
+            
+        }
+    }
+    
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        switch (other.gameObject.tag)
+        {
+            case "Enemy":
+                GameManager.Instance.isStopped = false;
+                break;
+            
         }
     }
 

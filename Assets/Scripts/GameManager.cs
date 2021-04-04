@@ -33,6 +33,7 @@ public class GameManager : Singleton<GameManager>
         set => _playerInstance = value;
     }
 
+    public bool isStopped;
     [SerializeField] public Transform playerPrefab;
     [SerializeField] public PlayerInfo playerInfo;
     [SerializeField] public Transform[] enemyPrefabs;
@@ -54,6 +55,7 @@ public class GameManager : Singleton<GameManager>
         playerInfo.IsLightFlickering = false;
         playerInfo.Energy = MaxEnergyAmount;
         _playerInstance = GameObject.FindGameObjectWithTag("Player").transform;
+        isStopped = false;
         StartCoroutine(SpawnTimer());
         StartCoroutine(SpawnEnemy());
     }
